@@ -16,10 +16,4 @@ susan.name      # => "Susan"
 susan.height    # => "5'11""
 susan.eye_color # => "Green"
 
-
-
-
-
-
-
 end
